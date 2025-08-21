@@ -1,3 +1,6 @@
+This Repo is a Fork of Jaybee18 = https://github.com/Jaybee18/butterDAWg
+DEV Branch and more are mabe comming ! If i find what i wanna do with it ! :D
+
 # butterDAWg
 FL Studio clone with Electron (WIP)
  
